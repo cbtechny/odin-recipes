@@ -1,2 +1,4 @@
-# odin-recipes
-Repo for Odin Project's 'Odin Recipes' project.
+# Odin Project: Odin Recipes
+## Public Repo
+
+Follow here for updates on this project.
