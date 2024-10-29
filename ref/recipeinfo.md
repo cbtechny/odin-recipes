@@ -1,30 +1,23 @@
-Thanksgiving Menu
-Herb-Roasted Turkey
+# Thanksgiving Menu
+* Herb-Roasted Turkey
+* Garlic Mashed Potatoes
+* Buttery Herb Stuffing
+* Apple Crumble Pie (Something Sweet)
 
-Garlic Mashed Potatoes
+### Common Ingredients
+* Butter
+* Garlic
+* Fresh herbs (thyme, rosemary, sage)
+* Onions
+* Celery
+* Chicken broth
+* Salt
+* Pepper
 
-Buttery Herb Stuffing
+---
 
-Apple Crumble Pie (Something Sweet)
 
-Common Ingredients
-Butter
-
-Garlic
-
-Fresh herbs (thyme, rosemary, sage)
-
-Onions
-
-Celery
-
-Chicken broth
-
-Salt
-
-Pepper
-
-1. Herb-Roasted Turkey
+## 1. Herb-Roasted Turkey
 Ingredients
 1 whole turkey (12-15 pounds)
 
@@ -95,7 +88,9 @@ Remove from the oven and tent with foil.
 
 Let it rest for 20-30 minutes before carving.
 
-2. Garlic Mashed Potatoes
+---
+
+## 2. Garlic Mashed Potatoes
 Ingredients
 3 pounds russet potatoes, peeled and cut into chunks
 
@@ -136,7 +131,9 @@ Season with salt and pepper.
 
 Garnish with chopped chives or parsley if desired.
 
-3. Buttery Herb Stuffing
+---
+
+## 3. Buttery Herb Stuffing
 Ingredients
 1 loaf (about 1 pound) day-old bread, cut into 1-inch cubes
 
@@ -191,7 +188,9 @@ Cover with foil and bake at 350°F (175°C) for 30 minutes.
 
 Remove foil and bake for an additional 15 minutes until the top is crisp and golden.
 
-4. Apple Crumble Pie
+---
+
+## 4. Apple Crumble Pie
 (A sweet treat to complete your meal)
 
 Ingredients
@@ -262,4 +261,6 @@ Remove from the oven and let the pie cool on a wire rack for at least 2 hours.
 
 Serve warm or at room temperature, optionally with vanilla ice cream or whipped cream.
 
-Enjoy your hearty and delightful Thanksgiving feast! These recipes share several ingredients, making your meal preparation more efficient.
+---
+
+### Enjoy your hearty and delightful Thanksgiving feast! These recipes share several ingredients, making your meal preparation more efficient.
